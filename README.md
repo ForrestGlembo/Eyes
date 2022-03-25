@@ -15,4 +15,4 @@ I would like to add the ability to have the eyes become cross eyed or even poten
 
 License - 
 
-Copyright Forrest Glembo & MIT
+Please see license file
